@@ -1,0 +1,10 @@
+/Users/zachspringer/source/codeworks/csharp-test-webapi/bin/Debug/netcoreapp2.0/csharp-test-webapi.deps.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi/bin/Debug/netcoreapp2.0/csharp-test-webapi.runtimeconfig.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi/bin/Debug/netcoreapp2.0/csharp-test-webapi.runtimeconfig.dev.json
+/Users/zachspringer/source/codeworks/csharp-test-webapi/bin/Debug/netcoreapp2.0/csharp-test-webapi.dll
+/Users/zachspringer/source/codeworks/csharp-test-webapi/bin/Debug/netcoreapp2.0/csharp-test-webapi.pdb
+/Users/zachspringer/source/codeworks/csharp-test-webapi/obj/Debug/netcoreapp2.0/csharp-test-webapi.csproj.CoreCompileInputs.cache
+/Users/zachspringer/source/codeworks/csharp-test-webapi/obj/Debug/netcoreapp2.0/csharp-test-webapi.AssemblyInfoInputs.cache
+/Users/zachspringer/source/codeworks/csharp-test-webapi/obj/Debug/netcoreapp2.0/csharp-test-webapi.AssemblyInfo.cs
+/Users/zachspringer/source/codeworks/csharp-test-webapi/obj/Debug/netcoreapp2.0/csharp-test-webapi.dll
+/Users/zachspringer/source/codeworks/csharp-test-webapi/obj/Debug/netcoreapp2.0/csharp-test-webapi.pdb
